@@ -3,7 +3,7 @@
 # An example usage for a random forest classifier in mlpack CLI
 # Mir's Personal Blog
 # www.mirblog.me
-# March 29, 2019
+# March 31, 2019
 
 # Unzip the covertype dataset
 gunzip -k dataset/covertype-small.data.csv.gz dataset/covertype-small.labels.csv.gz
